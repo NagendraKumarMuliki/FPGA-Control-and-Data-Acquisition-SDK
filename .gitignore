@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build outputs
+*.obj
+*.pdb
+*.lib
+*.dll
+*.exe
+*.exp

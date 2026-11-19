@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FPGA-Control-and-Data-Acquisition-SDK.vcxproj" Id="8bbea796-6f1e-41b5-bbd2-13a9b35c6dd8" />
+</Solution>
